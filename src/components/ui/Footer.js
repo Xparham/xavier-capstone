@@ -1,7 +1,7 @@
 function Footer(){
     return(
         <>
-            <footer class="bg-gray-600 inset-x-0 bottom-0">
+            <footer class="bg-gray-600 inset-x-0 bottom-0 fixed">
                 <div class="px-12 pt-4 pb-6 mx-auto md:container">
                     <div class="flex flex-wrap">
                         <div class="w-full text-center md:w-1/4 md:text-left">

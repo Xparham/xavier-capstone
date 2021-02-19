@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="bg-gray-600 py-6">
-      <h1 className="flex text-4xl text-white">Stork</h1>
+    <div className="p-24">
+      <h1 className="px-10 flex text-4xl">Welcome Back</h1>
     </div>
   );
 }

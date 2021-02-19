@@ -1,5 +1,5 @@
-function Footer(){
-    return(
+export const Footer = () => (
+    
         <>
             <footer class="bg-gray-600 inset-x-0 bottom-0 fixed">
                 <div class="px-12 pt-4 pb-6 mx-auto md:container">
@@ -61,7 +61,5 @@ function Footer(){
                 </div>
             </footer>
         </>
-    );
-}
-
-export default Footer
+    
+)

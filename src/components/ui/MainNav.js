@@ -4,8 +4,8 @@ export const MainNav =() => (
             <h1 className="px-10 flex text-4xl text-white">Stork</h1>
         </div>
         <ul>
-            <li></li>
-            <li></li>
+            <li>Home</li>
+            <li>Search</li>
             <li></li>
         </ul>
     </div>

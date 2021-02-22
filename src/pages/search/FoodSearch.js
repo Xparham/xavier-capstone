@@ -1,5 +1,5 @@
 export const FoodSearch =() => (
    <form>
-       <p>Look For Nearest Pantries, Banks, Organizations etc.</p>
+       <p><strong>Look For Nearest Pantries, Banks, Organizations etc.</strong></p>
    </form>
 )

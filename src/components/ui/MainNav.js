@@ -3,10 +3,10 @@ export const MainNav =() => (
         <div>
             <h1 className="px-10 text-4xl text-white">Stork</h1>
         </div>
-        <ul className="flex space-x-8 text-white">
+        <ul className="flex space-x-8 text-white px-10">
             <li>Home</li>
-            <li>Search</li>
-            <li></li>
+            <li>(AVATAR)</li>
+            <li><strong>Contact Us</strong></li>
         </ul>
     </div>
 )

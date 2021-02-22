@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import { MainNav, Footer } from './components/ui/';
+import {Route, Switch} from 'react-router-dom'
+import { Home } from './pages';
 
 
 function App() {
   return (
-  
+    <Switch>
+      <Route exact path='/' component={Home}/>
+    </Switch>
   );
 }
 

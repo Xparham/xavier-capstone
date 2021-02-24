@@ -7,4 +7,4 @@ insert into banks (id,nombre, address, city, states, zip) values (6, 'Food Distr
 insert into banks (id,nombre, address, city, states, zip) values (7, 'Worcester County Food Bank', '474 Boston Turnpike', 'Shrewsbury', 'MA', '01545')
 insert into banks (id,nombre, address, city, states, zip) values (8, 'Watertown Food Pantry', '80 Auburn St.', 'Watertown', 'MA', '02472')
 insert into banks (id,nombre, address, city, states, zip) values (9, 'Food Distribution Center - Massachusetts Affordable Housing Alliance', '1803 Dorchester Ave' 'Dorchester', 'MA', '02124')
-insert into banks (id,nombre, address, city, states, zip) values (10, 'Weymouth Food Pantry', 'Weymouth', 'MA', '02189')
+insert into banks (id,nombre, address, city, states, zip) values (10, 'Weymouth Food Pantry', '17 Church St.' 'Weymouth', 'MA', '02189')
